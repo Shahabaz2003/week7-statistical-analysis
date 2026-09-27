@@ -1,0 +1,11 @@
+1. Independent Two-Sample t-test (MonthlyCharges vs Churn):
+   t-statistic = -2.4102, p-value = 1.6303e-02
+   Conclusion: Statistically Significant (Reject H0)
+
+2. One-Way ANOVA (Total Sales across Regions):
+   F-statistic = 2.1644, p-value = 9.7237e-02
+   Conclusion: Fail to Reject H0
+
+3. Chi-Square Test of Independence (Contract vs Churn):
+   Chi2-statistic = 27.7153, p-value = 9.5874e-07, dof = 2
+   Conclusion: Statistically Significant (Reject H0)
